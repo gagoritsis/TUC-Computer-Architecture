@@ -10,3 +10,5 @@ Contents:
 4. Waveforms
 
 Tools: Xilinx ISE Design Suite 14.7, Xilinx Vivado 2019.1
+
+Contact: george.agoritsis@gmail.com
